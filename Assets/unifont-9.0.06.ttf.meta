@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e9a2e30625e6f4429936683736be1073
+timeCreated: 1491523451
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 64
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Unifont
+  fontNames:
+  - Unifont
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 3
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
